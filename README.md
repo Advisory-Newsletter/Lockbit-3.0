@@ -46,7 +46,7 @@ Lockbit 3.0 Ransomware samples
 •	SHA 256 - a56b41a6023f828cccaaef470874571d169fdb8f683a75edd430fbd31a2c3f6e
 •	SHA 256 - d61af007f6c792b8fb6c677143b7d0e2533394e28c50737588e40da475c040ee
 
-References
+**References**
 
 https://blog.cyble.com/2022/07/05/lockbit-3-0-ransomware-group-launches-new-version/
 https://www.pcrisk.com/removal-guides/24242-lockbit-3-0-ransomware
